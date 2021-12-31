@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    color: white;
+    position: absolute;
+    top: 13%;
+    left: 60%;
+    
+}
+.container h1{
+    border-bottom: 3px solid purple;
+    text-align: center;
+    font-size: 50px;
+}
+.box{
+    margin: 30px 10px;
+    border-bottom: 3px solid purple;
+    
+}
+.box i{
+    margin: 10px;
+    height: 17px;
+}
+.box input{
+    background: none;
+    color: white;
+    height: 35px;
+    width: 323px;
+    border:none;
+    outline:none;
+}
+.btn{
+    cursor: pointer;
+    margin: 12px 165px;
+    padding: 12px;
+    width: 25%;
+    border: 3px solid purple;
+    background: none;
+    color: white;
+    border-radius: 6px;
+}
+    
